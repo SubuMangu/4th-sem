@@ -155,7 +155,8 @@ select distinct id from subu
 
 
 4. Select Count
-- Suppose we have a table named as `sample`\
+- Suppose we have a table named as `sample`
+  
 <img src="images/Screenshot 2024-06-27 214450.png" width="100" height="200">
 ``` sql
 Select count(name) from sample
