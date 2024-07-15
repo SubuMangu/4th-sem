@@ -1,0 +1,32 @@
+- data types
+- Inserting data into table
+    - all columns
+    - specified columns
+- Alter table
+    - Adding/dropping columns
+    - Modifying data type
+    - Renaming table
+    - Renaming columns
+    - Adding and dropping constraints
+- Keys
+    - Primary key
+    - Foreign key
+    - unique key
+    - composite key
+- Rename
+- Delete
+- Truncate
+- null value
+- select
+    - Selecting columns
+    - Selecting rows
+    - unique/distinct
+    - count
+        - distinct count
+    - [in](https://www.javatpoint.com/sql-select-in)
+    - [sum and group by](https://www.javatpoint.com/sql-select-sum)
+- clauses
+    - WHERE
+    - as
+    - having vs where
+    - except
